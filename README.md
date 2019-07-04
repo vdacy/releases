@@ -5,5 +5,6 @@
 
 [Download](https://github.com/termix-io/release/releases/tag/alpha-20190704)
 ### Beta
-
+`beta-20190704`
 ### Stable
+[Download](https://github.com/termix-io/releases/releases/tag/beta-20190704)
